@@ -1,4 +1,9 @@
+# Decode Demcon 2024
+
+Solution for the [Decode Demcon 2024 Challange](https://mailing.demcon.com/lp/decode-demcon-challenge-festival-schedule-generator)
+
 # Usage
+
 
 ```bash
 python main.py exmple_input.txt
