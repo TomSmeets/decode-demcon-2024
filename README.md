@@ -1,12 +1,12 @@
 # Decode Demcon 2024
 
-Solution for the [Decode Demcon 2024 Challange](https://mailing.demcon.com/lp/decode-demcon-challenge-festival-schedule-generator)
+Solution for the [Decode Demcon 2024 Challenge](https://mailing.demcon.com/lp/decode-demcon-challenge-festival-schedule-generator)
 
 # Usage
 
 
 ```bash
-python main.py exmple_input.txt
+python main.py example_input.txt
 ```
 
 I also tried to reduce the size of the python file as much as possible. This version can be found in `main-min.py`.
@@ -14,7 +14,7 @@ I also tried to reduce the size of the python file as much as possible. This ver
 # Example Output
 
 ```
-> python main.py exmple_input.txt
+> python main.py example_input.txt
 Plan 0
    show_11 1 4
    show_23 6 9
